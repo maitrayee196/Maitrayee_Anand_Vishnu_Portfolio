@@ -75,4 +75,3 @@ I'm excited about roles where finance shapes the strategy, not just reports it. 
 - **Portfolio:** [maitrayee196.github.io/Maitrayee_Anand_Vishnu_Portfolio](https://maitrayee196.github.io/Maitrayee_Anand_Vishnu_Portfolio/)
 
 > *Turning analysis into decisions, and insight into impact.*
-
